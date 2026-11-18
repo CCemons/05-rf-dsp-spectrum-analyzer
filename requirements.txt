@@ -1,0 +1,2 @@
+# NumPy es opcional para acelerar la FFT; el motor incluye implementación pura en Python.
+numpy>=1.26.0

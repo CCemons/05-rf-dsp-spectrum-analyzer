@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+spectrum_report.html
+.venv/
+venv/
+.DS_Store
+Thumbs.db
